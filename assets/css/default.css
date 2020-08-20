@@ -73,8 +73,7 @@
 	font-family:arial;
   margin: 0;
   opacity: 0;
-  /* 垂直水平居中核心代码 */
-  /* 注意他是相对于position：relative的盒子 */
+ 
   position: absolute;
   left: 50%;
   top:50%;
